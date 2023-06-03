@@ -13,6 +13,7 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 7. Save the grayscale image using the `stb_image_write` library.
 8. Clean up allocated memory.
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ## Output:
 
 ### Input file:

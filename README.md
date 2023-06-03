@@ -20,6 +20,8 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 
 ![RGB](https://github.com/Marinto-Richee/RGB-to-Grayscale-using-CUDA-programming/assets/65499285/4dae3099-3090-4ff8-8a22-41f0603a38b3)
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### Output file:
 
 ![output_image](https://github.com/Marinto-Richee/RGB-to-Grayscale-using-CUDA-programming/assets/65499285/94868e77-8530-4915-a5ea-fab0c24aec1e)

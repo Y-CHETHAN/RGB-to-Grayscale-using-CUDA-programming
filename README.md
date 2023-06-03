@@ -13,19 +13,13 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 7. Save the grayscale image using the `stb_image_write` library.
 8. Clean up allocated memory.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Output:
 
 ### Input file:
-
 ![RGB](https://github.com/Marinto-Richee/RGB-to-Grayscale-using-CUDA-programming/assets/65499285/4dae3099-3090-4ff8-8a22-41f0603a38b3)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ### Output file:
-
 ![output_image](https://github.com/Marinto-Richee/RGB-to-Grayscale-using-CUDA-programming/assets/65499285/94868e77-8530-4915-a5ea-fab0c24aec1e)
-
 
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
